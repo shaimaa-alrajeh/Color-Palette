@@ -70,7 +70,23 @@ A simple web-based application that generates random color palettes with feature
 
 ![image](https://github.com/user-attachments/assets/79fba72c-1f4f-4249-b135-ad52db8adcb8)
 
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a pull request.
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+---
+
+### Notes
+
+For additional details or to report issues, visit the [GitHub Repository](https://github.com/shaimaa-alrajeh/Color-Palette).
